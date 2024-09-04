@@ -17,3 +17,5 @@ pacman -Syyu timeshift
 
 pacman -Syyu cmake
 
+pacman -Syuu calibre
+
