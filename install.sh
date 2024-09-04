@@ -19,3 +19,5 @@ pacman -Syyu cmake
 
 pacman -Syuu calibre
 
+# afterwards update kitty theme with kitten themes
+
